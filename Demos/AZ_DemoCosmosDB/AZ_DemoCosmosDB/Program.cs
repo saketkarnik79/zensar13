@@ -8,7 +8,7 @@ namespace AZ_DemoCosmosDB
 {
     internal class Program
     {
-        //static string cs = "AccountEndpoint=https://skzendemocosmos.documents.azure.com:443/;AccountKey=wY62WCQDbVfUBPuwkSmi9EO6b6V9dGBa6oTaOMykHT2yMaazvVXp8Xa2CkyCROXn9P58Mk9Dsrr8ACDbZhNkzQ==;";
+        static string cs = "";
         static string containerName = "products";
         static string databaseName = "InventoryDB";
 
