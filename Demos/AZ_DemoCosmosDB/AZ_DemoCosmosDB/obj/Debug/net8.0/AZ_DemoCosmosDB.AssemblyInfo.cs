@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AZ_DemoCosmosDB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca7622f033d81f79053fecfbc09d3354a9af4132")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+447d649c6b194a41cf21bf1ddd6f2272064619de")]
 [assembly: System.Reflection.AssemblyProductAttribute("AZ_DemoCosmosDB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AZ_DemoCosmosDB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
