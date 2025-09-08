@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Zensar13\\Demos\\AZ_DemoBlobStorage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A0139F-0CCF-44E2-AB96-B3A07D2B1143}|AZ_DemoBlobStorage\\AZ_DemoBlobStorage.csproj|c:\\zensar13\\demos\\az_demoblobstorage\\az_demoblobstorage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A0139F-0CCF-44E2-AB96-B3A07D2B1143}|AZ_DemoBlobStorage\\AZ_DemoBlobStorage.csproj|solutionrelative:az_demoblobstorage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 284,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Zensar13\\Demos\\AZ_DemoBlobStorage\\AZ_DemoBlobStorage\\Program.cs",
+              "RelativeDocumentMoniker": "AZ_DemoBlobStorage\\Program.cs",
+              "ToolTip": "C:\\Zensar13\\Demos\\AZ_DemoBlobStorage\\AZ_DemoBlobStorage\\Program.cs",
+              "RelativeToolTip": "AZ_DemoBlobStorage\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAADaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T13:58:19.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

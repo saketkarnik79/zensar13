@@ -1,0 +1,7 @@
+C:\Zensar13\Demos\DemoApp\DemoApp\obj\Release\net8.0\PubTmp\Out\DemoApp.exe
+C:\Zensar13\Demos\DemoApp\DemoApp\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Zensar13\Demos\DemoApp\DemoApp\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Zensar13\Demos\DemoApp\DemoApp\obj\Release\net8.0\PubTmp\Out\DemoApp.dll
+C:\Zensar13\Demos\DemoApp\DemoApp\obj\Release\net8.0\PubTmp\Out\DemoApp.deps.json
+C:\Zensar13\Demos\DemoApp\DemoApp\obj\Release\net8.0\PubTmp\Out\DemoApp.runtimeconfig.json
+C:\Zensar13\Demos\DemoApp\DemoApp\obj\Release\net8.0\PubTmp\Out\DemoApp.pdb

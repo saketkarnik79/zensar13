@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Zensar13\\Demos\\AZ_DemoStorageWithManagedIdentity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{983C9215-9BF2-491F-9AF6-4E44D2D25F95}|AZ_DemoStorageWithManagedIdentity\\AZ_DemoStorageWithManagedIdentity.csproj|c:\\zensar13\\demos\\az_demostoragewithmanagedidentity\\az_demostoragewithmanagedidentity\\controllers\\storageapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{983C9215-9BF2-491F-9AF6-4E44D2D25F95}|AZ_DemoStorageWithManagedIdentity\\AZ_DemoStorageWithManagedIdentity.csproj|solutionrelative:az_demostoragewithmanagedidentity\\controllers\\storageapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{983C9215-9BF2-491F-9AF6-4E44D2D25F95}|AZ_DemoStorageWithManagedIdentity\\AZ_DemoStorageWithManagedIdentity.csproj|c:\\zensar13\\demos\\az_demostoragewithmanagedidentity\\az_demostoragewithmanagedidentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{983C9215-9BF2-491F-9AF6-4E44D2D25F95}|AZ_DemoStorageWithManagedIdentity\\AZ_DemoStorageWithManagedIdentity.csproj|solutionrelative:az_demostoragewithmanagedidentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 284,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Zensar13\\Demos\\AZ_DemoStorageWithManagedIdentity\\AZ_DemoStorageWithManagedIdentity\\Program.cs",
+              "RelativeDocumentMoniker": "AZ_DemoStorageWithManagedIdentity\\Program.cs",
+              "ToolTip": "C:\\Zensar13\\Demos\\AZ_DemoStorageWithManagedIdentity\\AZ_DemoStorageWithManagedIdentity\\Program.cs",
+              "RelativeToolTip": "AZ_DemoStorageWithManagedIdentity\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:39:33.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StorageApiController.cs",
+              "DocumentMoniker": "C:\\Zensar13\\Demos\\AZ_DemoStorageWithManagedIdentity\\AZ_DemoStorageWithManagedIdentity\\Controllers\\StorageApiController.cs",
+              "RelativeDocumentMoniker": "AZ_DemoStorageWithManagedIdentity\\Controllers\\StorageApiController.cs",
+              "ToolTip": "C:\\Zensar13\\Demos\\AZ_DemoStorageWithManagedIdentity\\AZ_DemoStorageWithManagedIdentity\\Controllers\\StorageApiController.cs",
+              "RelativeToolTip": "AZ_DemoStorageWithManagedIdentity\\Controllers\\StorageApiController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:11:02.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

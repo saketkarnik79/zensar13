@@ -1,0 +1,7 @@
+C:\Zensar13\Demos\DemoApp\DemoApp\obj\Docker\publish\DemoApp.exe
+C:\Zensar13\Demos\DemoApp\DemoApp\obj\Docker\publish\appsettings.Development.json
+C:\Zensar13\Demos\DemoApp\DemoApp\obj\Docker\publish\appsettings.json
+C:\Zensar13\Demos\DemoApp\DemoApp\obj\Docker\publish\DemoApp.dll
+C:\Zensar13\Demos\DemoApp\DemoApp\obj\Docker\publish\DemoApp.deps.json
+C:\Zensar13\Demos\DemoApp\DemoApp\obj\Docker\publish\DemoApp.runtimeconfig.json
+C:\Zensar13\Demos\DemoApp\DemoApp\obj\Docker\publish\DemoApp.pdb

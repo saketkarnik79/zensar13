@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Zensar13\\Demos\\DemoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EEA3FB9-C94C-46C1-A644-E64716D4BB49}|DemoApp\\DemoApp.csproj|c:\\zensar13\\demos\\demoapp\\demoapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EEA3FB9-C94C-46C1-A644-E64716D4BB49}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EEA3FB9-C94C-46C1-A644-E64716D4BB49}|DemoApp\\DemoApp.csproj|c:\\zensar13\\demos\\demoapp\\demoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EEA3FB9-C94C-46C1-A644-E64716D4BB49}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EEA3FB9-C94C-46C1-A644-E64716D4BB49}|DemoApp\\DemoApp.csproj|c:\\zensar13\\demos\\demoapp\\demoapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0EEA3FB9-C94C-46C1-A644-E64716D4BB49}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 284,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Zensar13\\Demos\\DemoApp\\DemoApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DemoApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Zensar13\\Demos\\DemoApp\\DemoApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DemoApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:48:15.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Zensar13\\Demos\\DemoApp\\DemoApp\\appsettings.json",
+              "RelativeDocumentMoniker": "DemoApp\\appsettings.json",
+              "ToolTip": "C:\\Zensar13\\Demos\\DemoApp\\DemoApp\\appsettings.json",
+              "RelativeToolTip": "DemoApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-03T14:47:04.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Zensar13\\Demos\\DemoApp\\DemoApp\\Program.cs",
+              "RelativeDocumentMoniker": "DemoApp\\Program.cs",
+              "ToolTip": "C:\\Zensar13\\Demos\\DemoApp\\DemoApp\\Program.cs",
+              "RelativeToolTip": "DemoApp\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:43:41.609Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
