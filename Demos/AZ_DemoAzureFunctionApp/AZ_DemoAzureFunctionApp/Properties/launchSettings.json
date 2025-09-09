@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "profiles": {
     "AZ_DemoAzureFunctionApp": {
@@ -6,4 +7,14 @@
       "launchBrowser": false
     }
   }
+=======
+{
+  "profiles": {
+    "AZ_DemoAzureFunctionApp": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7140",
+      "launchBrowser": false
+    }
+  }
+>>>>>>> ff0cba1b69401430554019c3ab9d9afdda7f4eee
 }
