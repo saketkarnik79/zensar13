@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Zensar13\\Demos\\AZ_DemoRedis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42AB0F0F-3639-45AF-A861-2DCB2E7DA56B}|AZ_DemoRedis\\AZ_DemoRedis.csproj|c:\\zensar13\\demos\\az_demoredis\\az_demoredis\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AB0F0F-3639-45AF-A861-2DCB2E7DA56B}|AZ_DemoRedis\\AZ_DemoRedis.csproj|solutionrelative:az_demoredis\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AB0F0F-3639-45AF-A861-2DCB2E7DA56B}|AZ_DemoRedis\\AZ_DemoRedis.csproj|c:\\zensar13\\demos\\az_demoredis\\az_demoredis\\views\\home\\data.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42AB0F0F-3639-45AF-A861-2DCB2E7DA56B}|AZ_DemoRedis\\AZ_DemoRedis.csproj|solutionrelative:az_demoredis\\views\\home\\data.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AB0F0F-3639-45AF-A861-2DCB2E7DA56B}|AZ_DemoRedis\\AZ_DemoRedis.csproj|c:\\zensar13\\demos\\az_demoredis\\az_demoredis\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AB0F0F-3639-45AF-A861-2DCB2E7DA56B}|AZ_DemoRedis\\AZ_DemoRedis.csproj|solutionrelative:az_demoredis\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AB0F0F-3639-45AF-A861-2DCB2E7DA56B}|AZ_DemoRedis\\AZ_DemoRedis.csproj|c:\\zensar13\\demos\\az_demoredis\\az_demoredis\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42AB0F0F-3639-45AF-A861-2DCB2E7DA56B}|AZ_DemoRedis\\AZ_DemoRedis.csproj|solutionrelative:az_demoredis\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Zensar13\\Demos\\AZ_DemoRedis\\AZ_DemoRedis\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "AZ_DemoRedis\\Models\\Person.cs",
+              "ToolTip": "C:\\Zensar13\\Demos\\AZ_DemoRedis\\AZ_DemoRedis\\Models\\Person.cs",
+              "RelativeToolTip": "AZ_DemoRedis\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T14:58:03.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Zensar13\\Demos\\AZ_DemoRedis\\AZ_DemoRedis\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AZ_DemoRedis\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Zensar13\\Demos\\AZ_DemoRedis\\AZ_DemoRedis\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AZ_DemoRedis\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T14:33:06.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Data.cshtml",
+              "DocumentMoniker": "C:\\Zensar13\\Demos\\AZ_DemoRedis\\AZ_DemoRedis\\Views\\Home\\Data.cshtml",
+              "RelativeDocumentMoniker": "AZ_DemoRedis\\Views\\Home\\Data.cshtml",
+              "ToolTip": "C:\\Zensar13\\Demos\\AZ_DemoRedis\\AZ_DemoRedis\\Views\\Home\\Data.cshtml",
+              "RelativeToolTip": "AZ_DemoRedis\\Views\\Home\\Data.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T14:31:35.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Zensar13\\Demos\\AZ_DemoRedis\\AZ_DemoRedis\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AZ_DemoRedis\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Zensar13\\Demos\\AZ_DemoRedis\\AZ_DemoRedis\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AZ_DemoRedis\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T14:24:04.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

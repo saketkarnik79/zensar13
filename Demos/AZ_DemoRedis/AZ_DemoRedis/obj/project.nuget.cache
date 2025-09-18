@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "PBbwrv+8OUM=",
+  "success": true,
+  "projectFilePath": "C:\\Zensar13\\Demos\\AZ_DemoRedis\\AZ_DemoRedis\\AZ_DemoRedis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saket\\.nuget\\packages\\azure.core\\1.47.3\\azure.core.1.47.3.nupkg.sha512",
+    "C:\\Users\\saket\\.nuget\\packages\\azure.identity\\1.16.0\\azure.identity.1.16.0.nupkg.sha512",
+    "C:\\Users\\saket\\.nuget\\packages\\azure.security.keyvault.secrets\\4.8.0\\azure.security.keyvault.secrets.4.8.0.nupkg.sha512",
+    "C:\\Users\\saket\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "C:\\Users\\saket\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\saket\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.3\\microsoft.extensions.logging.abstractions.8.0.3.nupkg.sha512",
+    "C:\\Users\\saket\\.nuget\\packages\\microsoft.identity.client\\4.76.0\\microsoft.identity.client.4.76.0.nupkg.sha512",
+    "C:\\Users\\saket\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\4.76.0\\microsoft.identity.client.extensions.msal.4.76.0.nupkg.sha512",
+    "C:\\Users\\saket\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.35.0\\microsoft.identitymodel.abstractions.6.35.0.nupkg.sha512",
+    "C:\\Users\\saket\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\saket\\.nuget\\packages\\stackexchange.redis\\2.9.17\\stackexchange.redis.2.9.17.nupkg.sha512",
+    "C:\\Users\\saket\\.nuget\\packages\\system.clientmodel\\1.6.1\\system.clientmodel.1.6.1.nupkg.sha512",
+    "C:\\Users\\saket\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\saket\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
+    "C:\\Users\\saket\\.nuget\\packages\\system.memory.data\\8.0.1\\system.memory.data.8.0.1.nupkg.sha512",
+    "C:\\Users\\saket\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\saket\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
